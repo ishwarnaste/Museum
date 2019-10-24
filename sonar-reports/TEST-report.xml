@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MuseumUITests.xctest' tests='3' failures='0'>
+  <testsuite name='MuseumTests.MuseumTests' tests='2' failures='0'>
+    <testcase classname='MuseumTests.MuseumTests' name='testExample' time='0.001'/>
+    <testcase classname='MuseumTests.MuseumTests' name='testPerformanceExample' time='0.354'/>
+  </testsuite>
+  <testsuite name='MuseumUITests.MuseumUITests' tests='1' failures='0'>
+    <testcase classname='MuseumUITests.MuseumUITests' name='testExample' time='3.252'/>
+  </testsuite>
+</testsuites>
